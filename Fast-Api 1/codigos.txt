@@ -1,0 +1,3 @@
+env\Scripts\Activate
+uvicorn main:app --reload
+pip install -r requirements.txt
